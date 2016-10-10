@@ -33,13 +33,13 @@ namespace IoTHubMsgSimulator
 
                 SensorReading tSensorReading = new SensorReading();
 
-                tSensorReading.NurseryId = 100;
-                tSensorReading.RowId = 200;
-                tSensorReading.SensorId = 333;
-                tSensorReading.Strain = "Palmetto Bay";
-                tSensorReading.MinValue = 2;
-                tSensorReading.MaxValue = 7;
-                tSensorReading.CurrentValue = Math.Round((rnd.NextDouble() * 10), 1);
+                tSensorReading.NurseryId = 1;
+                tSensorReading.RowId = 222;
+                tSensorReading.SensorId = 99;
+                tSensorReading.Strain = "Arduino";
+                tSensorReading.MinValue = 1;
+                tSensorReading.MaxValue = 6;
+                tSensorReading.CurrentValue = Math.Round((rnd.NextDouble() * 8), 1);
                 tSensorReading.SensorType = "PH";
 
                 var messageString = JsonConvert.SerializeObject(tSensorReading);
