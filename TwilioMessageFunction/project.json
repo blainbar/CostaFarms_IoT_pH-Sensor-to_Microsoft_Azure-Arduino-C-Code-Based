@@ -1,0 +1,11 @@
+{  
+   "frameworks":{  
+      "net46":{  
+         "dependencies":{  
+            "Twilio":"4.7.2",
+            "RestSharp":"105.2.2",
+            "Newtonsoft.Json" : "9.0.1"
+         }
+      }
+   }
+}
