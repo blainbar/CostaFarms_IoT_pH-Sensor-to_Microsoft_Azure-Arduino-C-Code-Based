@@ -2,6 +2,8 @@
 
 Written by Blain Barton, Senior Technical Evangelist
 
+Professional video published here - https://channel9.msdn.com/Shows/Microsoft-Technical-Case-Studies/Costa-Farms
+
 [Costa Farms](http://http://www.costafarms.com/) is a third-generation, family-owned group of companies headquartered in beautiful Miami, Florida (aka, plant paradise!). The company sprouted in 1961 when the founder, Jose Costa Sr., purchased 30 acres south of Miami to grow fresh, vine-ripened tomatoes in the winter and calamondin citrus in the summer. That soon morphed into houseplants, and the Costa Farms family started innovating and introduced new houseplants such as the canela tree, Orchids and Cecilia Aglaonema. Costa Farms sells to big box stores such as Walmart, Home Depot and Lowe's.![](https://github.com/blainbar/techcasestudies-private/blob/master/images/CostaTablestech.png)
 
 ## Core Team: ##
