@@ -8,7 +8,7 @@ Professional video published here - https://channel9.msdn.com/Shows/Microsoft-Te
 
 ## Core Team: ##
 
-Mani Peddada - BI Architect, mpeddada@costafarms.com- 
+Mani Peddada - BI Architect, mpeddada@costafarms.com 
 
 Rodney Sanchez - Software Developer, rsanchez@costafarms.com
 
@@ -29,9 +29,14 @@ This is the Adafruit Feather M0 Wifi using the I2C Arduino C code -![](https://g
 
 This is the Atlas Scientific pH red circuit board -![](https://github.com/blainbar/techcasestudies-private/blob/master/images/CostaPhcircuit3.png)
 
-Here's an image of the device we built starting with the pH Probe -![](https://github.com/blainbar/techcasestudies-private/blob/master/images/CostaPhprobe1.PNG)For the Microsoft Azure Setup, we used IoT Hub, Stream Analytics, Azure SQL database, sending messages to Event Hub and to the Azure functions, then sending the messages based ob the range of the Min and Max values. This is the Microsoft Azure setup for Costa Farms. ![](https://github.com/blainbar/techcasestudies-private/blob/master/images/Costaazureportalapps.PNG)
+Here's an image of the device we built starting with the pH Probe -![](https://github.com/blainbar/techcasestudies-private/blob/master/images/CostaPhprobe1.PNG)
+For the Microsoft Azure Setup, we used IoT Hub, Stream Analytics, Azure SQL database, sending messages to Event Hub and to the Azure functions, then sending the messages based ob the range of the Min and Max values. This is the Microsoft Azure setup for Costa Farms. 
 
-We started with the hardware and C code setup which starts the flow into Microsoft AzureNext, the messages are sent to IoT Hub. • Here the messages go into SQL Azure database and stored to be used for Power BI.    
+[](https://github.com/blainbar/techcasestudies-private/blob/master/images/Costaazureportalapps.PNG)
+
+We started with the hardware and C code setup which starts the flow into Microsoft AzureNext, the messages are sent to IoT Hub.
+
+• Here the messages go into SQL Azure database and stored to be used for Power BI.    
 
 • The messages are then sent via Stream Analytics within SQL Azure seen here.   
 
