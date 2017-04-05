@@ -1,6 +1,6 @@
 ## Learning's from Costa Farms pH Flow Controls and Automation
 
-Written by Blain Barton, Senior Technical Evangelist
+Written by [Blain Barton](http://aka.ms/blainbarton), Senior Technical Evangelist
 
 Professional video published here - https://channel9.msdn.com/Shows/Microsoft-Technical-Case-Studies/Costa-Farms
 
